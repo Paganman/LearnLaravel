@@ -22,7 +22,6 @@ class CreateOrderdetailsTable extends Migration
             $table->double('priceEach');
             $table->integer('orderLineNumber');
 
-
         });
     }
 
